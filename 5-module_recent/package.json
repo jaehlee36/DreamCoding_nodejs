@@ -1,0 +1,14 @@
+{
+  "name": "5-module_recent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  // commonJS인 노드가 아니라 자바스크립트 자체 모듈을 쓸거다!
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
